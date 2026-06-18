@@ -28,7 +28,7 @@ Records: 2,412 | Columns: 18 | Period: 2020–2025
 ```
 tech-layoffs-eda/
 │
-├── tech_layoffs.ipynb    # Main analysis notebook
-├── layoffs.csv           # Dataset
+├── Tech_layoffs_JM.ipynb              # Main analysis notebook
+├── tech_layoffs_til_2025.csv          # Dataset
 └── README.md
 ```
